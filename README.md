@@ -34,7 +34,7 @@ REST APIs, Responsive Design, Component-Based Architecture
 
 Email: iahmad6raza@gmail.com  
 
-GitHub: https://github.com/ahmadraza552  
+GitHub: https://github.com/Mr-AhmadRaza  
 
 LinkedIn: https://linkedin.com/in/ahmad-raza2  
 
