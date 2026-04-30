@@ -1,4 +1,5 @@
-** Hi there, I'm Ahmad Raza 👋 **
+ Hi there, I'm Ahmad Raza 👋 
+
 **Dynamic and detail-oriented Frontend Developer with a passion for building responsive, scalable, and user-friendly web applications. My expertise lies in React.js, Next.js, JavaScript, and TypeScript, with hands-on experience in Tailwind CSS, Bootstrap, Ant Design, and backend technologies like Node.js, Express.js, and databases**.
 
 🚀 About Me
