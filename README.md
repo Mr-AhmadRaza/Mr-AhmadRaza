@@ -8,7 +8,7 @@
 
 🎓 Education: BS Computer Science from University of Education, Lahore (2021–2025)  
 
-💼 Current Role: Frontend Developer at Ali Square (Dec 2025 – Feb 2026)  
+💼 Current Role: Frontend Developer at Ali Square (Dec 2025)  
 
 💻 Previous Experience: Working on real-world frontend and MERN stack projects  
 
